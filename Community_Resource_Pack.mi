@@ -1,6 +1,10 @@
 [Modding.Core]
 Name=Community_Resource_Pack
-Description=
+Description=This is a mod that contains all code for my personal gamemodes.
+
+Current supported: Contagion Redux
+
+Github: https://github.com/FalseAnomaly/Community_Resource_Pack
 MD5=
 ID=2705893807
 
