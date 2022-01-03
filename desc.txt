@@ -1,0 +1,7 @@
+Source: https://github.com/FalseAnomaly/Community_Resource_Pack
+
+This mod is a code pack that currently contains all resources for my Contagion Redux mod, so if you want to play Contagion Redux you must install this mod alongside it. It only contains a dummy layer which is empty. If anyone wants to put this gamemode in your map, DM me on PS modding Discord.
+
+Future work:
+ability system for zombies
+more gamemodes that share a common player controller
